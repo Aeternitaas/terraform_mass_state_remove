@@ -7,6 +7,9 @@ multiple aws_route53_records all at once. This tool assumes that you have set up
 if managing remote state, that you have the necessary permissions to access the Terraform state 
 buckets and DynamoDB tables through the CLI.
 
+These are destructive actions, so please use this at your own risk. The author claims no 
+responsibility for any harm done through the use of this script.
+
 Copyright, Senna Lang (Aeternitaas on Github)
 """
 
