@@ -1,1 +1,1 @@
-# terraform_mass_state_remove
+# Terraform Mass State Removal Tool
